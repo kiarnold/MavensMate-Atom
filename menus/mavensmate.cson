@@ -3,9 +3,9 @@
     {
       'label': 'MavensMate'
       'submenu': [
-        { 'label': 'Delete From Server', 'command': 'mavensmate:delete-file-from-server' }
         { 'label': 'Refresh From Server', 'command': 'mavensmate:refresh-file' }
         { 'label': 'Compile', 'command': 'mavensmate:compile-file' }
+        { 'label': 'Delete From Server', 'command': 'mavensmate:delete-file-from-server' }
       ]
     }   
   ]
@@ -13,9 +13,9 @@
     {
       'label': 'MavensMate'
       'submenu': [
-        { 'label': 'Delete Files From Server', 'command': 'mavensmate:delete-file-from-server' }
         { 'label': 'Refresh From Server', 'command': 'mavensmate:refresh-selected-metadata' }
         { 'label': 'Compile Files', 'command': 'mavensmate:compile-selected-metadata' }
+        { 'label': 'Delete Files From Server', 'command': 'mavensmate:delete-file-from-server' }
       ]
     }   
   ]
